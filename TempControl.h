@@ -8,7 +8,7 @@
 #ifndef TempControl_h
 #define TempControl_h
 
-Class TempControl
+class TempControl
 {
   private:
     int tempPin;

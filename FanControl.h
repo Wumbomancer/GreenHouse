@@ -16,7 +16,7 @@ private:
 
 
 public:
-  FanControl ();
+  FanControl (int pin);
   void Enable(float speed);
   void Disable();
 };
